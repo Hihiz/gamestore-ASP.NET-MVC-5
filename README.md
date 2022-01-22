@@ -11,6 +11,7 @@
 Сайт сделан на платформе ASP.NET MVC 5 (.NET Framework 4.6.1) Реализован список товаров и админ панель доступная по адресу /Admin/Index (name="admin" password="12345") База Данных называется GameStore, а сама таблица Games. для создания таблицы Games в базе данных нужно вести SQL запрос, для заполнения таблицы данными нужно вести SQL запрос.
 
 NuGet были установлены следующие пакеты
+
 Install-Package Ninject -version 3.0.1.10 -projectname GameStore.WebUI
 
 Install-Package Ninject.Web.Common -version 3.0.0.7 -projectname GameStore.WebUI
