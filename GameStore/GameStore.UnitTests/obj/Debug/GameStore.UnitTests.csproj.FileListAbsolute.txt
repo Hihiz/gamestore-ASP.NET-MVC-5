@@ -1,0 +1,2 @@
+D:\Valera_Doks\Desktop\Web ASP.NET\GameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.AssemblyReference.cache
+D:\Valera_Doks\Desktop\Web ASP.NET\GameStore\GameStore.UnitTests\obj\Debug\GameStore.UnitTests.csproj.CoreCompileInputs.cache
